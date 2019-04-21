@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.5)
+PROJECT(TEST)
+AUX_SOURCE_DIRECTORY(. DIR_SRCS)
+ADD_EXECUTABLE(main ${DIR_SRCS})
+
