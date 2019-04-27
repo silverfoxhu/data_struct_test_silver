@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/SmartPointer.h
+
+/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/main.cpp
+iostream
+-
+SmartPointer.h
+/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/SmartPointer.h
+
