@@ -28,5 +28,9 @@ int main (int argc, char *argv[])
     cout << sp.isNull() << endl;
     cout << nsp.isNull() << endl;
 
+    sp = nsp;
+    cout << sp.isNull() << endl;
+    cout << nsp.isNull() << endl;
+
     return 0;
 }
