@@ -123,6 +123,60 @@ Demo/fast:
 	$(MAKE) -f CMakeFiles/Demo.dir/build.make CMakeFiles/Demo.dir/build
 .PHONY : Demo/fast
 
+home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.o: home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.cpp.o
+
+.PHONY : home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.o
+
+# target to build an object file
+home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.cpp.o:
+	$(MAKE) -f CMakeFiles/Demo.dir/build.make CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.cpp.o
+.PHONY : home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.cpp.o
+
+home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.i: home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.cpp.i
+
+.PHONY : home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.i
+
+# target to preprocess a source file
+home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.cpp.i:
+	$(MAKE) -f CMakeFiles/Demo.dir/build.make CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.cpp.i
+.PHONY : home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.cpp.i
+
+home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.s: home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.cpp.s
+
+.PHONY : home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.s
+
+# target to generate assembly for a file
+home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.cpp.s:
+	$(MAKE) -f CMakeFiles/Demo.dir/build.make CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.cpp.s
+.PHONY : home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.cpp.s
+
+home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.o: home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.cpp.o
+
+.PHONY : home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.o
+
+# target to build an object file
+home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.cpp.o:
+	$(MAKE) -f CMakeFiles/Demo.dir/build.make CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.cpp.o
+.PHONY : home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.cpp.o
+
+home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.i: home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.cpp.i
+
+.PHONY : home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.i
+
+# target to preprocess a source file
+home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.cpp.i:
+	$(MAKE) -f CMakeFiles/Demo.dir/build.make CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.cpp.i
+.PHONY : home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.cpp.i
+
+home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.s: home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.cpp.s
+
+.PHONY : home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.s
+
+# target to generate assembly for a file
+home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.cpp.s:
+	$(MAKE) -f CMakeFiles/Demo.dir/build.make CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.cpp.s
+.PHONY : home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.cpp.s
+
 home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/main.o: home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/main.cpp.o
 
 .PHONY : home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/main.o
@@ -159,6 +213,12 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Demo"
+	@echo "... home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.o"
+	@echo "... home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.i"
+	@echo "... home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.s"
+	@echo "... home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.o"
+	@echo "... home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.i"
+	@echo "... home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.s"
 	@echo "... home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/main.o"
 	@echo "... home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/main.i"
 	@echo "... home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/main.s"

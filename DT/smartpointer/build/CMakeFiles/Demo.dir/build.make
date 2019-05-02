@@ -81,17 +81,69 @@ CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/
 CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/main.cpp.o.provides.build: CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/main.cpp.o
 
 
+CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.cpp.o: CMakeFiles/Demo.dir/flags.make
+CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.cpp.o: /home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.cpp.o -c /home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.cpp
+
+CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.cpp > CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.cpp.i
+
+CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.cpp -o CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.cpp.s
+
+CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.cpp.o.requires:
+
+.PHONY : CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.cpp.o.requires
+
+CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.cpp.o.provides: CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Demo.dir/build.make CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.cpp.o.provides.build
+.PHONY : CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.cpp.o.provides
+
+CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.cpp.o.provides.build: CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.cpp.o
+
+
+CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.cpp.o: CMakeFiles/Demo.dir/flags.make
+CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.cpp.o: /home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.cpp.o -c /home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.cpp
+
+CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.cpp > CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.cpp.i
+
+CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.cpp -o CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.cpp.s
+
+CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.cpp.o.requires:
+
+.PHONY : CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.cpp.o.requires
+
+CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.cpp.o.provides: CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Demo.dir/build.make CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.cpp.o.provides.build
+.PHONY : CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.cpp.o.provides
+
+CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.cpp.o.provides.build: CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.cpp.o
+
+
 # Object files for target Demo
 Demo_OBJECTS = \
-"CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/main.cpp.o"
+"CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/main.cpp.o" \
+"CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.cpp.o" \
+"CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.cpp.o"
 
 # External object files for target Demo
 Demo_EXTERNAL_OBJECTS =
 
 Demo: CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/main.cpp.o
+Demo: CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.cpp.o
+Demo: CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.cpp.o
 Demo: CMakeFiles/Demo.dir/build.make
 Demo: CMakeFiles/Demo.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Demo"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable Demo"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Demo.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -100,6 +152,8 @@ CMakeFiles/Demo.dir/build: Demo
 .PHONY : CMakeFiles/Demo.dir/build
 
 CMakeFiles/Demo.dir/requires: CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/main.cpp.o.requires
+CMakeFiles/Demo.dir/requires: CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.cpp.o.requires
+CMakeFiles/Demo.dir/requires: CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.cpp.o.requires
 
 .PHONY : CMakeFiles/Demo.dir/requires
 

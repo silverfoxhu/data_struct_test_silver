@@ -6,11 +6,35 @@
 
 #IncludeRegexTransform: 
 
-/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/SmartPointer.h
+/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.cpp
+Exception.h
+/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.h
+cstdlib
+-
+cstring
+-
+stdio.h
+-
+
+/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.h
+iostream
+-
+
+/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.cpp
+Object.h
+/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.h
+cstdlib
+-
+iostream
+-
+
+/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.h
+iostream
+-
 
 /home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/main.cpp
 iostream
 -
-SmartPointer.h
-/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/SmartPointer.h
+Exception.h
+/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.h
 

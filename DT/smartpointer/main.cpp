@@ -1,36 +1,21 @@
 #include <iostream>
-#include "SmartPointer.h"
+#include "Exception.h"
 
 using namespace std;
 using namespace DTLib;
 
-class Test
+int main()
 {
-    public:
-        Test()
-        {
-            cout << "Test()" << endl;
-        }
-
-        ~Test()
-        {
-            cout << "~Test()" << endl;
-        }
-};
-
-int main (int argc, char *argv[])
-{
-    SmartPointer<Test> sp = new Test();
-    SmartPointer<Test> nsp;
-
-    nsp = sp;
-
-    cout << sp.isNull() << endl;
-    cout << nsp.isNull() << endl;
-
-    sp = nsp;
-    cout << sp.isNull() << endl;
-    cout << nsp.isNull() << endl;
-
+    try
+    {
+        THROW_EXCEPTION(ArithmeticException, "test");
+    }
+    catch(const ArithmeticException& e)
+    {
+        cout << "catch a ArithmeticException!" << endl;
+        cout << e.message() << endl;
+        cout << e.location() << endl;
+    }
+    
     return 0;
 }

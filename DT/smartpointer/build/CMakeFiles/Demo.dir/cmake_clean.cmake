@@ -1,5 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/main.cpp.o"
+  "CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Object.cpp.o"
+  "CMakeFiles/Demo.dir/home/hudayuan/work/data_struct_test/data_struct_test_silver/DT/smartpointer/Exception.cpp.o"
   "Demo.pdb"
   "Demo"
 )
