@@ -4,7 +4,7 @@
  * @Author: Hu Dayuan
  * @LastEditors: Hu Dayuan
  * @Date: 2019-04-27 23:39:01
- * @LastEditTime: 2019-05-01 15:11:48
+ * @LastEditTime: 2019-05-03 11:44:00
  */
 
 #include "Exception.h"
@@ -23,9 +23,11 @@ void Exception::init(const char* message, const char* file, int line)
         char sl[16] = { 0 };
         snprintf(sl, sizeof(sl), "%d", line);
         m_location = static_cast<char*>(malloc(strlen(file) + strlen(sl) + 2));
-        strcpy(m_location, file);
-        m_location = strcat(m_location, ":");
-        m_location = strcat(m_location, sl);
+        if (m_location != NULL) {
+            strcpy(m_location, file);
+            m_location = strcat(m_location, ":");
+            m_location = strcat(m_location, sl);
+        }
     } else {
         m_location = NULL;
     }
